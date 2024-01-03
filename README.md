@@ -42,13 +42,17 @@ College TaskFlow is an intuitive time management app tailored for college studen
 - **External Tool Integration**: Integration with popular productivity tools like Time Tree or Microsoft To-Do enables cross-platform syncing for easy accessibility.
 - **Progress Tracking**: Students can track task progress and mark completed tasks, fostering a sense of accomplishment and aiding visualization of achievements.
 
+## App Walkthrough
+
+(gif)[https://i.imgur.com/Q7h12Sw.gif]
+
 ## Notes
 
 No significant challenges were encountered while building the app.
 
 ## License
 
-    Copyright [2024] [Brody Haar]
+    Copyright 2024 Brody Haar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
