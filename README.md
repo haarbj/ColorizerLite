@@ -44,7 +44,7 @@ College TaskFlow is an intuitive time management app tailored for college studen
 
 ## App Walkthrough
 
-(gif)[https://i.imgur.com/Q7h12Sw.gif]
+![gif](https://i.imgur.com/Q7h12Sw.gif)
 
 ## Notes
 
